@@ -1,5 +1,11 @@
 # git-team-2
 
+### 김기현
+
+Github link : https://github.com/HYUNEE222
+
+프론트엔드가 처음이라 어디서 한번씩은 들어본거 같은데 막상 실전으로 넘어가니 너무 어려웠습니다. 복습을 좀 더 열심히 해봐야겠습니다.
+
 ### 김호영
 
 _git_ : https://github.com/kim-hoyoung
